@@ -1,0 +1,2 @@
+ # Infra to Deploy any application on EC2
+ This repository provides everything needed to deploy an application on EC2 instances with an Application Load Balancer (ALB), SSL certificates managed by AWS Certificate Manager (ACM), and a PostgreSQL database on Amazon RDS.
